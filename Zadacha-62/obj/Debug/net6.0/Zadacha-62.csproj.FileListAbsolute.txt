@@ -1,0 +1,15 @@
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\bin\Debug\net6.0\Zadacha-62.exe
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\bin\Debug\net6.0\Zadacha-62.deps.json
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\bin\Debug\net6.0\Zadacha-62.runtimeconfig.json
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\bin\Debug\net6.0\Zadacha-62.dll
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\bin\Debug\net6.0\Zadacha-62.pdb
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.csproj.AssemblyReference.cache
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.AssemblyInfoInputs.cache
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.AssemblyInfo.cs
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.csproj.CoreCompileInputs.cache
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.dll
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\refint\Zadacha-62.dll
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.pdb
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\Zadacha-62.genruntimeconfig.cache
+C:\Users\Hamac\Desktop\HW-CS-8\HW-CS-8\Zadacha-62\obj\Debug\net6.0\ref\Zadacha-62.dll
